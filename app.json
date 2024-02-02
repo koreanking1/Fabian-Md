@@ -1,6 +1,6 @@
 {
-  "name": "CROWN-MD",
-  "description": "𝐈𝐭𝐬_𝐒𝐢𝐫𝐦™𝕏 first born",
+  "name": "Fabian-Md",
+  "description": "A multi device bot created by France King, The Greatest Of All Time🐐",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,18 +14,18 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/kimsirm/CROWN-MD#readme",
-  "repository": "https://github.com/kimsirm/CROWN-MD.git",
-  "logo": "https://i.imgur.com/iSDfKz1.jpeg",
+  "website": "https://github.com/franceking1/Fabian-Md#readme",
+  "repository": "https://github.com/franceking1/Fabian-Md.git",
+  "logo": "https://telegra.ph/file/63a1e94c8e298948f8165.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of crown MD Ex: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of Fabian-Md Ex: . , / , # , & etc. Put any symbol",
       "required": true
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 923195832822, 254712624687 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254757835036, 254750948696 ",
       "required": true
     },
     "NOT_OWNER_MSG": {
