@@ -339,7 +339,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
       switch (command) {
       case "help":
         case "menu":
-let cap = `╭════〘 *_THE-FABIAN-MD_* 〙═⊷❍
+let cap = `╭════〘 *_FABIAN MD_* 〙═⊷❍
 ┃✯╭──────────────
 ┃✯│ *_𝐎𝐰𝐧𝐞𝐫 : France King_*
 ┃✯│ *_𝐔𝐬𝐞𝐫 : ${m.pushName}_*
