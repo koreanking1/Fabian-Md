@@ -19,8 +19,8 @@
 <a href="https://github.com/franceking1/Fabian-Md/network/members"><img title="Forks" src="https://img.shields.io/github/fork/franceking1/Fabian-Md?color=yellow&style=flat-square"></a>
 <a href="https://github.com/owlai01/CROWN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Fabian-Md?label=Watchers&color=red&style=flat-square"></a>
 <a href="https://github.com/franceking1/Fabian-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/owlai01/Owl-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/owlai01/CROWN-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/franceking1/Fabian-Md/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/franceking1/Fabian-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
 </p>
 
 
